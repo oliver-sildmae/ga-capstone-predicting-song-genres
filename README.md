@@ -7,6 +7,8 @@ Lyrics - https://labrosa.ee.columbia.edu/millionsong/musixmatch (bag-of-words fo
 
 These two datasets were be merged, and various modelling techniques have been employed to try and make accurate genre predictions based on string input (lyrics).
 
+If you want to put one of the final models to test, find some lyrics and head over to http://ec2-52-14-243-207.us-east-2.compute.amazonaws.com/ !
+
 - - - -
 #### Files in this repo:
 * capstone_summary.ipynb - A high-level executive summary detailing the data used and various results achieved (currently being written)
