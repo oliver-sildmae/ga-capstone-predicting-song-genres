@@ -11,6 +11,6 @@ If you want to put one of the final models to test, find some lyrics and head ov
 
 - - - -
 #### Files in this repo:
-* capstone_summary.ipynb - A high-level executive summary detailing the data used and various results achieved (currently being written)
+* capstone_summary.ipynb - A high-level executive summary detailing the data used and various results achieved
 * capstone_long.ipynb - The commented main file containing all the relevant code underlying the above summary
 * Assets - Various files used in the notebooks
